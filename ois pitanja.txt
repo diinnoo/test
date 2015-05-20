@@ -1,0 +1,44 @@
+ovako: subota(5.4.2014)
+Lekcija SCRUM:
+Slike :
+-Kako se izvodi?
+http://pokit.org/get/?b733ef0bb0974ac20bd7c336f5c248e5.jpg
+-Sekvencijalni vs. Preklapajuæi razvoj
+http://pokit.org/get/?cbb366e74377787dff7ded762258bf11.jpg
+-Sprint planning meeting
+http://pokit.org/get/?b5611c60de7e5531511c7e2f0d58c3ad.jpg
+-skalabilnost scrum-a
+http://pokit.org/get/?42f7e3d3a873099a966fa73bebf9ee09.jpg
+
+srijeda (2.4.2014)
+Lekcija:Extreme Programming
+Slike:
+-Extreme Programming Project(sve slike sa extrema)
+http://pokit.org/get/?1246960e4af30e76f97404ba5c4ab2aa.jpg
+
+
+subota (29.03.2014)
+koliko sam vidjela nema ništa, bila prièa o intervju-u
+
+srijeda (26.03.2014)
+slike:
+-Rapid Application Development(RAD)
+http://pokit.org/get/?5a9013bf3cbbe44ad6d97916d5ce8a58.jpg
+-Waterfall
+http://pokit.org/get/?acb76402bdbf1179e0a907204ce9aebc.jpg
+-Isporuke po etapama
+http://pokit.org/get/?96419a213c22f142f787722cd3fc3de1.jpg
+
+Prvo predavanje(nezz koji datum bio, davnooo nekad :S)
+slike:
+-Životni ciklus opštih sistema (GSLC) <---nisam sigurna je li baš ovo rekao, ali oko ovoga je prièao, pa sam stavila za svaki sluèaj
+http://pokit.org/get/?ca87ec5a2bbf9fce219660b4d86163e1.jpg
+-Životni ciklus informacionih sistema (ISLC) 
+http://pokit.org/get/?bad647adc34b18cc3c60551e0856a5e0.jpg
+-Životni ciklus razvoja informacionih sistema (SDLC)
+ http://pokit.org/get/?71bd117af9041d70603f7771f48af8d1.jpg
+-Evolutivni razvoj
+http://pokit.org/get/?6751d06885801e980c0bda725630ec92.jpg
+
+
+
